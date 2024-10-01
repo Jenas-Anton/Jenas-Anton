@@ -56,6 +56,8 @@ I'm a developer with a passion for AI and machine learning. My journey involves 
   <br>
   A project focused on leveraging AI for early cancer detection and classification.
 </p>
+
+
 ## 🎯 Current Focus
 
 I'm currently working on enhancing my skills in:
