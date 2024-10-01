@@ -32,8 +32,6 @@ I'm a developer with a passion for AI and machine learning. My journey involves 
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva">
 </p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Jenas-Anton&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 📊 GitHub Stats
 
@@ -52,8 +50,7 @@ I'm a developer with a passion for AI and machine learning. My journey involves 
 ## 🌟 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/Jenas-Anton/Cancer-Prediction-and-Classification
-">
+  <a href="https://github.com/Jenas-Anton/Cancer-Prediction-and-Classification">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jenas-Anton&repo=project1&theme=radical" alt="Project 1">
   </a>
 </p>
