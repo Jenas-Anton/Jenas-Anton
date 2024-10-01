@@ -1,13 +1,18 @@
 # 👋 Hello, I'm Jenas Anton!
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+profile!;I'm+a+passionate+developer;Exploring+the+world+of+AI+and+ML&font=Fira%20Code&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+profile!;I'm+Jenas+Anton;A+passionate+developer;Exploring+the+world+of+AI+and+ML&font=Fira%20Code&center=true&width=380&height=50&color=22c55e&size=24">
 </p>
 
 <p align="center">
   <a href="https://instagram.com/jenas.an10"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://linkedin.com/in/jenas-anton"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://huggingface.co/Jenas-Anton"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-yellow" alt="Hugging Face"></a>
+  <a href="mailto:jenasav010@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"></a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" alt="Snake animation">
 </p>
 
 ## 🚀 About Me
@@ -32,7 +37,6 @@ I'm a developer with a passion for AI and machine learning. My journey involves 
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva">
 </p>
 
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -56,7 +60,6 @@ I'm a developer with a passion for AI and machine learning. My journey involves 
   <br>
   A project focused on leveraging AI for early cancer detection and classification.
 </p>
-
 
 ## 🎯 Current Focus
 
