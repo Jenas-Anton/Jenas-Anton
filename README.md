@@ -52,11 +52,9 @@ I'm a developer with a passion for AI and machine learning. My journey involves 
 ## 🌟 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/Jenas-Anton/project1">
+  <a href="https://github.com/Jenas-Anton/Cancer-Prediction-and-Classification
+">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jenas-Anton&repo=project1&theme=radical" alt="Project 1">
-  </a>
-  <a href="https://github.com/Jenas-Anton/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jenas-Anton&repo=project2&theme=radical" alt="Project 2">
   </a>
 </p>
 
