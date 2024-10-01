@@ -36,25 +36,26 @@ I'm a developer with a passion for AI and machine learning. My journey involves 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jenas-Anton&theme=radical&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jenas-Anton&theme=radical&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jenas-Anton&theme=radical&hide_border=false" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jenas-Anton&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jenas-Anton&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jenas-Anton&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
 </p>
 
 ## 🌟 Featured Projects
 
 <p align="center">
   <a href="https://github.com/Jenas-Anton/Cancer-Prediction-and-Classification">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jenas-Anton&repo=project1&theme=radical" alt="Project 1">
+    <strong>Cancer Prediction and Classification</strong>
   </a>
+  <br>
+  A project focused on leveraging AI for early cancer detection and classification.
 </p>
-
 ## 🎯 Current Focus
 
 I'm currently working on enhancing my skills in:
