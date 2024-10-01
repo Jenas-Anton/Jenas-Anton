@@ -1,13 +1,21 @@
+<h1 align="center" style="font-size: 50px;">
+  👋 Hello, I'm Jenas Anton!
+</h1>
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hello,+I'm+Jenas+Anton!;Welcome+to+my+GitHub+profile!&center=true&size=30&color=58a6ff&width=500&height=70">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+profile!&center=true&size=30&color=58a6ff&width=500&height=70">
 </h1>
 
 <p align="center">
-  <a href="https://instagram.com/jenas.an10"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://linkedin.com/in/jenas-anton"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://huggingface.co/Jenas-Anton"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-yellow" alt="Hugging Face"></a>
-  <a href="mailto:jenasav010@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://instagram.com/jenas.an10"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" height="30"></a>
+  <a href="https://linkedin.com/in/jenas-anton"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" height="30"></a>
+  <a href="https://huggingface.co/Jenas-Anton"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-yellow" alt="Hugging Face" height="30"></a>
+  <a href="mailto:jenasav010@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" height="30"></a>
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" alt="GitHub Snake Animation">
+</p>
+
 
 ## 🚀 About Me
 
@@ -23,14 +31,15 @@ I'm a developer with a passion for AI and machine learning. My journey involves 
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C Programming">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R Programming">
+  <img src="https://img.shields.io/badge/Jupyter-Lab-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Labs">
+  <img src="https://img.shields.io/badge/R_Studio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" alt="R Studio">
+  <img src="https://img.shields.io/badge/Data_Visualization-4A4A4A?style=for-the-badge" alt="Data Visualization">
+  <img src="https://img.shields.io/badge/Web_Scraping-000000?style=for-the-badge&logo=beautifulsoup&logoColor=white" alt="Web Scraping">
 </p>
 
 ## 📊 GitHub Stats
@@ -53,10 +62,10 @@ I'm a developer with a passion for AI and machine learning. My journey involves 
 
 ## 🎯 Current Focus
 
-I'm currently working on enhancing my skills in:
-- Advanced Machine Learning algorithms
-- Natural Language Processing
-- Computer Vision applications
+I'm currently focusing on enhancing my skills in:
+- 🔍 **Advanced Machine Learning Algorithms**
+- 🗣️ **Natural Language Processing**
+- 👁️ **Computer Vision Applications**
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Jenas-Anton&color=blueviolet" alt="Profile views">
