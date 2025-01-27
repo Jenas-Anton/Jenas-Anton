@@ -1,9 +1,8 @@
 <h1 align="center" style="font-size: 50px;">
   👋 Hello, I'm Jenas Anton!
 </h1>
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+profile!;AI+%26+ML+Developer;Data+Science+Enthusiast;Problem+Solver;Innovation+Creator&center=true&size=30&color=58a6ff&width=500&height=70">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+and+Machine+Learning+Developer;Data+Science+Enthusiast;Problem+Solver;Innovation+Creator&center=true&size=30&color=58a6ff&width=600&height=70">
 </div>
 
 <p align="center">
