@@ -98,10 +98,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jenas-Anton&theme=radical" width="100%">
 </p>
 
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card">
-</p>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:2980b9&height=150&section=footer&animation=twinkling"/>
 
 <p align="center">
