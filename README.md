@@ -1,9 +1,16 @@
-<h1 align="center" style="font-size: 50px;">
-  👋 Hello, I'm Jenas Anton!
-</h1>
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+profile!&center=true&size=30&color=58a6ff&width=500&height=70">
+  ✨ Jenas Anton
 </h1>
+
+<p align="center">
+  <b>AI & Machine Learning Developer | Data Science Enthusiast</b>
+</p>
+
+<!-- More reliable welcome message that works across devices -->
+<p align="center">
+  <b>Welcome to my GitHub profile! 👋</b><br>
+  <i>Turning Data into Intelligence, One Project at a Time</i>
+</p>
 
 <p align="center">
   <a href="https://instagram.com/jenas.an10"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" height="30"></a>
@@ -12,10 +19,15 @@
   <a href="mailto:jenasav010@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" height="30"></a>
 </p>
 
+<!-- Enhanced GitHub Stats with custom parameters -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" alt="GitHub Snake Animation">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jenas-Anton&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jenas-Anton&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak"/>
 </p>
 
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jenas-Anton&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Most Used Languages"/>
+</p>
 
 ## 🚀 About Me
 
@@ -36,43 +48,30 @@ I'm a developer with a passion for AI and machine learning. My journey involves 
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" alt="SQL">
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R Programming">
-  <img src="https://img.shields.io/badge/Jupyter-Lab-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Labs">
-  <img src="https://img.shields.io/badge/R_Studio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" alt="R Studio">
-  <img src="https://img.shields.io/badge/Data_Visualization-4A4A4A?style=for-the-badge" alt="Data Visualization">
-  <img src="https://img.shields.io/badge/Web_Scraping-000000?style=for-the-badge&logo=beautifulsoup&logoColor=white" alt="Web Scraping">
-</p>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jenas-Anton&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jenas-Anton&theme=radical" alt="GitHub Streak" />
 </p>
 
 ## 🌟 Featured Projects
 
 <p align="center">
   <a href="https://github.com/Jenas-Anton/Cancer-Prediction-and-Classification">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jenas-Anton&repo=Cancer-Prediction-and-Classification&theme=radical" alt="Cancer Prediction and Classification">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jenas-Anton&repo=Cancer-Prediction-and-Classification&theme=radical&hide_border=true&bg_color=0D1117" alt="Cancer Prediction and Classification">
   </a>
 </p>
 
 ## 🎯 Current Focus
 
-I'm currently focusing on enhancing my skills in:
 - 🔍 **Advanced Machine Learning Algorithms**
 - 🗣️ **Natural Language Processing**
 - 👁️ **Computer Vision Applications**
+- 📊 **Deep Learning for Time Series Analysis**
+- 🤖 **Reinforcement Learning**
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jenas-Anton&color=blueviolet" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=Jenas-Anton&color=blueviolet&style=flat-square" alt="Profile views">
 </p>
 
 ---
 
 <p align="center">
-  <i>Let's connect and create something amazing together!</i>
+  <i>Let's connect and create something amazing together! Feel free to reach out for collaborations.</i>
 </p>
