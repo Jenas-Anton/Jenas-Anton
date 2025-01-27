@@ -22,7 +22,7 @@
 
 <div align="center">
 
-## 🤖 About Me 
+# 🤖 About Me 
 
 <img align="right" width="40%" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/>
 
