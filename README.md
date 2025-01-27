@@ -1,4 +1,4 @@
-<h1 align="center" style="font-size: 50px;">
+<h1 align="center" style="font-size: 500px;">
   👋 Hello, I'm Jenas Anton!
 </h1>
 
