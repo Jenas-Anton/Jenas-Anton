@@ -1,6 +1,7 @@
 <h1 align="center" style="font-size: 50px;">
   👋 Hello, I'm Jenas Anton!
 </h1>
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+and+Machine+Learning+Developer;Data+Science+Enthusiast;Problem+Solver;Innovation+Creator&center=true&size=30&color=58a6ff&width=600&height=70">
 </div>
@@ -16,7 +17,7 @@
   <img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" alt="GitHub Snake Animation">
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Machine%20Learning%20Engineer&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=gradient"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:2980b9&height=200&section=header&text=Machine%20Learning%20Engineer&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=FFFFFF"/>
 
 <div align="center">
 
@@ -26,7 +27,7 @@
 
 <div align="left" width="50%">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF7&random=false&width=435&lines=AI+%26+ML+Engineer;Deep+Learning+Enthusiast;Problem+Solver;Innovation+Creator" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF7&random=false&width=435&lines=AI+and+Machine+Learning+Engineer;Deep+Learning+Enthusiast;Problem+Solver;Innovation+Creator" alt="Typing SVG" />
 
 <div align="left">
 
