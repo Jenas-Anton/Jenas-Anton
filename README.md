@@ -17,6 +17,7 @@
   <img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" alt="GitHub Snake Animation">
 </div>
 
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:2980b9&height=200&section=header&text=Machine%20Learning%20Engineer&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=FFFFFF"/>
 
 <div align="center">
@@ -111,8 +112,7 @@
   <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card">
 </p>
 
-<!-- Animated Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:2980b9&height=150&section=footer&animation=twinkling"/>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Jenas-Anton&color=blueviolet&style=flat-square" alt="Profile views">
