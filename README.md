@@ -28,7 +28,7 @@
 
 <div align="left" width="50%">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF7&random=false&width=435&lines=AI+and+Machine+Learning+Engineer;Deep+Learning+Enthusiast;Problem+Solver;Innovation+Creator" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF7&random=false&width=600&lines=AI+and+Machine+Learning+Engineer;Deep+Learning+Enthusiast;Problem+Solver;Innovation+Creator" alt="Typing SVG" />
 
 <div align="left">
 
