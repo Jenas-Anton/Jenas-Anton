@@ -84,14 +84,6 @@
   <img src="https://img.shields.io/badge/R_Studio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" alt="R Studio">
 </p>
 
-## 🌟 Featured Projects
-
-<p align="center">
-<a href="https://github.com/Jenas-Anton/Stable-Diffusion-Fine-Tuning">
-<img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Jenas-Anton&repo=Stable-Diffusion-Fine-Tuning&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="Stable-Diffusion-Fine-Tuning">
-</a>
-</p>
-
 
 <!-- Activity Metrics Alternative -->
 <p align="center">
